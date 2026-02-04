@@ -35,4 +35,5 @@
         'views/backup_view.xml',
         'data/backup_data.xml',
     ],
+    'images': ['static/description/overview.png'],
 }

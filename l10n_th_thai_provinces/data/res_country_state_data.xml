@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data noupdate="1">
+        <record id="base.state_th_001" model="res.country.state">
+            <field name="name">กรุงเทพมหานคร</field>
+        </record>
+        <record id="base.state_th_002" model="res.country.state">
+            <field name="name">จ.อำนาจเจริญ</field>
+        </record>
+        <record id="base.state_th_003" model="res.country.state">
+            <field name="name">จ.อ่างทอง</field>
+        </record>
+        <record id="base.state_th_004" model="res.country.state">
+            <field name="name">จ.บึงกาฬ</field>
+        </record>
+        <record id="base.state_th_005" model="res.country.state">
+            <field name="name">จ.บุรีรัมย์</field>
+        </record>
+        <record id="base.state_th_006" model="res.country.state">
+            <field name="name">จ.ฉะเชิงเทรา</field>
+        </record>
+        <record id="base.state_th_007" model="res.country.state">
+            <field name="name">จ.ชัยนาท</field>
+        </record>
+        <record id="base.state_th_008" model="res.country.state">
+            <field name="name">จ.ชัยภูมิ</field>
+        </record>
+        <record id="base.state_th_009" model="res.country.state">
+            <field name="name">จ.จันทบุรี</field>
+        </record>
+        <record id="base.state_th_010" model="res.country.state">
+            <field name="name">จ.เชียงใหม่</field>
+        </record>
+        <record id="base.state_th_011" model="res.country.state">
+            <field name="name">จ.เชียงราย</field>
+        </record>
+        <record id="base.state_th_012" model="res.country.state">
+            <field name="name">จ.ชลบุรี</field>
+        </record>
+        <record id="base.state_th_013" model="res.country.state">
+            <field name="name">จ.ชุมพร</field>
+        </record>
+        <record id="base.state_th_014" model="res.country.state">
+            <field name="name">จ.กาฬสินธุ์</field>
+        </record>
+        <record id="base.state_th_015" model="res.country.state">
+            <field name="name">จ.กำแพงเพชร</field>
+        </record>
+        <record id="base.state_th_016" model="res.country.state">
+            <field name="name">จ.กาญจนบุรี</field>
+        </record>
+        <record id="base.state_th_017" model="res.country.state">
+            <field name="name">จ.ขอนแก่น</field>
+        </record>
+        <record id="base.state_th_018" model="res.country.state">
+            <field name="name">จ.กระบี่</field>
+        </record>
+        <record id="base.state_th_019" model="res.country.state">
+            <field name="name">จ.ลำปาง</field>
+        </record>
+        <record id="base.state_th_020" model="res.country.state">
+            <field name="name">จ.ลำพูน</field>
+        </record>
+        <record id="base.state_th_021" model="res.country.state">
+            <field name="name">จ.เลย</field>
+        </record>
+        <record id="base.state_th_022" model="res.country.state">
+            <field name="name">จ.ลพบุรี</field>
+        </record>
+        <record id="base.state_th_023" model="res.country.state">
+            <field name="name">จ.แม่ฮ่องสอน</field>
+        </record>
+        <record id="base.state_th_024" model="res.country.state">
+            <field name="name">จ.มหาสารคาม</field>
+        </record>
+        <record id="base.state_th_025" model="res.country.state">
+            <field name="name">จ.มุกดาหาร</field>
+        </record>
+        <record id="base.state_th_026" model="res.country.state">
+            <field name="name">จ.นครนายก</field>
+        </record>
+        <record id="base.state_th_027" model="res.country.state">
+            <field name="name">จ.นครปฐม</field>
+        </record>
+        <record id="base.state_th_028" model="res.country.state">
+            <field name="name">จ.นครพนม</field>
+        </record>
+        <record id="base.state_th_029" model="res.country.state">
+            <field name="name">จ.นครราชสีมา</field>
+        </record>
+        <record id="base.state_th_030" model="res.country.state">
+            <field name="name">จ.นครสวรรค์</field>
+        </record>
+        <record id="base.state_th_031" model="res.country.state">
+            <field name="name">จ.นครศรีธรรมราช</field>
+        </record>
+        <record id="base.state_th_032" model="res.country.state">
+            <field name="name">จ.น่าน</field>
+        </record>
+        <record id="base.state_th_033" model="res.country.state">
+            <field name="name">จ.นราธิวาส</field>
+        </record>
+        <record id="base.state_th_034" model="res.country.state">
+            <field name="name">จ.หนองบัวลำภู</field>
+        </record>
+        <record id="base.state_th_035" model="res.country.state">
+            <field name="name">จ.หนองคาย</field>
+        </record>
+        <record id="base.state_th_036" model="res.country.state">
+            <field name="name">จ.นนทบุรี</field>
+        </record>
+        <record id="base.state_th_037" model="res.country.state">
+            <field name="name">จ.ปทุมธานี</field>
+        </record>
+        <record id="base.state_th_038" model="res.country.state">
+            <field name="name">จ.ปัตตานี</field>
+        </record>
+        <record id="base.state_th_039" model="res.country.state">
+            <field name="name">จ.พังงา</field>
+        </record>
+        <record id="base.state_th_040" model="res.country.state">
+            <field name="name">จ.พัทลุง</field>
+        </record>
+        <record id="base.state_th_041" model="res.country.state">
+            <field name="name">จ.พะเยา</field>
+        </record>
+        <record id="base.state_th_042" model="res.country.state">
+            <field name="name">จ.เพชรบูรณ์</field>
+        </record>
+        <record id="base.state_th_043" model="res.country.state">
+            <field name="name">จ.เพชรบุรี</field>
+        </record>
+        <record id="base.state_th_044" model="res.country.state">
+            <field name="name">จ.พิจิตร</field>
+        </record>
+        <record id="base.state_th_045" model="res.country.state">
+            <field name="name">จ.พิษณุโลก</field>
+        </record>
+        <record id="base.state_th_046" model="res.country.state">
+            <field name="name">จ.พระนครศรีอยุธยา</field>
+        </record>
+        <record id="base.state_th_047" model="res.country.state">
+            <field name="name">จ.แพร่</field>
+        </record>
+        <record id="base.state_th_048" model="res.country.state">
+            <field name="name">จ.ภูเก็ต</field>
+        </record>
+        <record id="base.state_th_049" model="res.country.state">
+            <field name="name">จ.ปราจีนบุรี</field>
+        </record>
+        <record id="base.state_th_050" model="res.country.state">
+            <field name="name">จ.ประจวบคีรีขันธ์</field>
+        </record>
+        <record id="base.state_th_051" model="res.country.state">
+            <field name="name">จ.ระนอง</field>
+        </record>
+        <record id="base.state_th_052" model="res.country.state">
+            <field name="name">จ.ราชบุรี</field>
+        </record>
+        <record id="base.state_th_053" model="res.country.state">
+            <field name="name">จ.ระยอง</field>
+        </record>
+        <record id="base.state_th_054" model="res.country.state">
+            <field name="name">จ.ร้อยเอ็ด</field>
+        </record>
+        <record id="base.state_th_055" model="res.country.state">
+            <field name="name">จ.สระแก้ว</field>
+        </record>
+        <record id="base.state_th_056" model="res.country.state">
+            <field name="name">จ.สกลนคร</field>
+        </record>
+        <record id="base.state_th_057" model="res.country.state">
+            <field name="name">จ.สมุทรปราการ</field>
+        </record>
+        <record id="base.state_th_058" model="res.country.state">
+            <field name="name">จ.สมุทรสาคร</field>
+        </record>
+        <record id="base.state_th_059" model="res.country.state">
+            <field name="name">จ.สมุทรสงคราม</field>
+        </record>
+        <record id="base.state_th_060" model="res.country.state">
+            <field name="name">จ.สระบุรี</field>
+        </record>
+        <record id="base.state_th_061" model="res.country.state">
+            <field name="name">จ.สตูล</field>
+        </record>
+        <record id="base.state_th_062" model="res.country.state">
+            <field name="name">จ.สิงห์บุรี</field>
+        </record>
+        <record id="base.state_th_063" model="res.country.state">
+            <field name="name">จ.ศรีสะเกษ</field>
+        </record>
+        <record id="base.state_th_064" model="res.country.state">
+            <field name="name">จ.สงขลา</field>
+        </record>
+        <record id="base.state_th_065" model="res.country.state">
+            <field name="name">จ.สุโขทัย</field>
+        </record>
+        <record id="base.state_th_066" model="res.country.state">
+            <field name="name">จ.สุพรรณบุรี</field>
+        </record>
+        <record id="base.state_th_067" model="res.country.state">
+            <field name="name">จ.สุราษฎร์ธานี</field>
+        </record>
+        <record id="base.state_th_068" model="res.country.state">
+            <field name="name">จ.สุรินทร์</field>
+        </record>
+        <record id="base.state_th_069" model="res.country.state">
+            <field name="name">จ.ตาก</field>
+        </record>
+        <record id="base.state_th_070" model="res.country.state">
+            <field name="name">จ.ตรัง</field>
+        </record>
+        <record id="base.state_th_071" model="res.country.state">
+            <field name="name">จ.ตราด</field>
+        </record>
+        <record id="base.state_th_072" model="res.country.state">
+            <field name="name">จ.อุบลราชธานี</field>
+        </record>
+        <record id="base.state_th_073" model="res.country.state">
+            <field name="name">จ.อุดรธานี</field>
+        </record>
+        <record id="base.state_th_074" model="res.country.state">
+            <field name="name">จ.อุทัยธานี</field>
+        </record>
+        <record id="base.state_th_075" model="res.country.state">
+            <field name="name">จ.อุตรดิตถ์</field>
+        </record>
+        <record id="base.state_th_076" model="res.country.state">
+            <field name="name">จ.ยะลา</field>
+        </record>
+        <record id="base.state_th_077" model="res.country.state">
+            <field name="name">จ.ยโสธร</field>
+        </record>
+    </data>
+</odoo>

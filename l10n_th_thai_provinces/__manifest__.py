@@ -17,6 +17,9 @@ This module updates the default English names of Thailand's 77 provinces to thei
     'data': [
         'data/res_country_state_data.xml',
     ],
+    'images': [
+        'static/description/1774172475584.jpg',
+    ],
     'installable': True,
     'application': False,
     'auto_install': False,
